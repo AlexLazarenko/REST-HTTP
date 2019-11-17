@@ -1,0 +1,6 @@
+pvt\dto\SensorDto.class
+pvt\pojo\Sensor.class
+pvt\controller\SensorController.class
+pvt\repository\SensorRepository.class
+pvt\MyBootApplication.class
+pvt\service\SensorService.class
